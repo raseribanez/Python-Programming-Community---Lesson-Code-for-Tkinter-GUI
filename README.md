@@ -2,6 +2,8 @@
 ===================================================================================================
 Some lesson handouts. Each code is designed to accompany a PDF document. Basic GUI set-up in Tkinter
 ===================================================================================================
+All tutorials written by myself
+
 I have a Python Programming Community page on facebook, where I teach the basics in Python
 and Tkinter GUI development
 
